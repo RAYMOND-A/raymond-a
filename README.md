@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a flutter bitcoin-ticker app project
+- 🔭 I’m currently working on a flutter chat app project
 - 🌱 I’m currently learning flutter and Dart
 - 👯 I’m looking to collaborate on good and interesting flutter and Dart projects
 - 🤗 I'm also a ML/AI enthusiast
