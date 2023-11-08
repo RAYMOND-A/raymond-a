@@ -6,7 +6,7 @@
 - 🤗 I'm also a ML/AI enthusiast
 - 💬 Ask me about flutter, computer programming and any tech related stuffs
 - 📫 How to reach me,
-    email: raymondakime@gmail.com
+    email: raymondakimen@gmail.com
     telephone: +32485377428
 - ⚡ Fun fact: i spent like 2hours listening to music everyday and i also love sports especially soccer
 
